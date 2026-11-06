@@ -1,0 +1,5 @@
+<!-- Name: Kashish Sharma | Roll No: BCS2025344 | BCS352 | Lab 2 | Task 2 -->
+git branch
+git push -u origin main
+# If your branch is named master, use:
+# git push -u origin master

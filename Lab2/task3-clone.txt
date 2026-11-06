@@ -1,0 +1,5 @@
+<!-- Name: Kashish Sharma | Roll No: BCS2025344 | BCS352 | Lab 2 | Task 3 -->
+cd ..
+git clone html-remote html-copy
+cd html-copy
+git log --oneline

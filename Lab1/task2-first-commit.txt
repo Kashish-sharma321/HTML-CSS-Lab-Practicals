@@ -1,0 +1,12 @@
+<!-- Name: Kashish Sharma | Roll No: BCS2025344 | BCS352 | Lab 1 | Task 2 -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Git Lab</title></head>
+<body>
+  <h1>Hello, this is Kashish Sharma.</h1>
+</body>
+</html>
+
+git status
+git add index.html
+git commit -m "Add home page"

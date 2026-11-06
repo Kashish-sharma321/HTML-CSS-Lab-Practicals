@@ -1,0 +1,6 @@
+<!-- Name: Kashish Sharma | Roll No: BCS2025344 | BCS352 | Lab 1 | Task 3 -->
+<h2>Next Meeting</h2>
+
+git add index.html
+git commit -m "Add next meeting heading"
+git log --oneline
